@@ -1,7 +1,7 @@
 # Landing Page
 Welcome to my Landing Page!
 
-This is my second project of my internship Web Development Project, using frontend technologies. In this project, I have used HTML, CSS and JavaScript.
+This is my second project of Web Development Project, using frontend technologies. In this project, I have used HTML, CSS and JavaScript.
 
 Here is the preview of my Website
 
